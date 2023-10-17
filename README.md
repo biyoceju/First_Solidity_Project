@@ -1,6 +1,6 @@
 # My first Token
 
-The purpose of this program is to create a token called CELIO, abbreviated CEY and with an initial total supply of 2000 ceys.
+The purpose of this program is to create a token called CELIO, abbreviated CEY and with an initial total supply of 2000 ceys. It is the first project, I wrote in solidity after following the course entitled 'Getting Started in Solidity' on metacrafters.io.
 
 ## Description
 
