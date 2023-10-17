@@ -59,7 +59,6 @@ Once the contract is deployed, you can interact with it by calling the mint func
 ## Author
 Metacrafter Celestin
 @BiakeJunior [https://twitter.com/BiakeJunior]
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 
 ## License
+This project is licensed under the MIT License - see the LICENSE.md file for details 
