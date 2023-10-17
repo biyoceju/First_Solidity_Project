@@ -55,18 +55,10 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the mint function and the burn function. Click on the "TOGETHER" contract in the left-hand sidebar, and then click on the arrow near "mint" or  "burn" functions. Enter the address and the amount you would like to mint or burn. Finally, click on the "transact" button to execute the function and retrieve the balance and the total supply by clicking repectively on the balance button and on the Total_Supply button. 
 
-## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
+## Author
+Metacrafter Celestin
+@BiakeJunior [https://twitter.com/BiakeJunior]
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 
